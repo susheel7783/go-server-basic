@@ -1,7 +1,3 @@
-## install mux
-```bash
-go get "github.com/gorilla/mux"
-```
 # Go Movies CRUD API
 
 A simple REST API built with Go and Gorilla Mux for managing movies.
